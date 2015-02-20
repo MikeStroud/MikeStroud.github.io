@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Build Your Design Challenge</title>
+</head>
+<body>
+	<h1><strong>Build Your Design Challenge</h1></strong>
+		<h2><i>Which two websites were you inspired by?</i></h2>
+	<p>	<a href="https://www.nespresso.com/uk/en/home/">Nespresso</a><br>
+		<a href="blog.pgi.com">PGi blog</a><br></p>
+
+<h2><i>How do they exhibit effective use of space, size or balance?</i></h2>
+<p><strong>Nespresso</strong> is about style and elegance, which is reflected in the overall aesthetic of the site. The hero image dominates the screen with the product taking centre stage.  Negative space is mostly dark, even black, with white font - including the logo. This dark background is quite unusual, making the site quite distinctive, as the same time as conveying a sense of elegance. It also helps calls-to-action (quick order, learn more, watch video etc) to stand out.<br><br>
+<strong>PGi</strong> is a collaboration services provider. Its marketing leans heavily on the creation of engaging content, of which its corporate blog is a key element.  The focal point is a hero image that neatly sums up the company's solutions and reflects its global nature.  The company's logo is near the cnetre of the screen, but seems deliberately small/subtle - to direct the user's attention to the content rather than in-your-face branding.  Immediately below the banner are clearly signposted sections. Encouraging people to follow the company in social media is a key objective and the links to social media are very prominent. The five most recent blog posts are featured in a rotating carousel banner, with eye-catching images. Below the fold, you have the company's twitter feed and the blog posts with prominent links to share the content via social media. <br></p>
+
+<h2><i>What makes them similar and different?</i></h2>
+<p><strong>Similar:</strong> Eye-catching hero image at the top and centre draws the user's attention. Same number of section tabs.<br><br>
+<strong>Different:</strong> Nespresso relies on high quality, aspirational imagery and makes effective use of negative space, in an unconventional colour for added distinctiveness.
+The point of PGi's blog is to bring users to the written content. The images on the page do a good job in drawing the user in and are a lot more attractive/interesting than a simple list of blog posts.
+</p>
+
+<h2><i>Thumbnail sketches</i></h2>
+<p>I've imagined a corporate website for a B2B company. The idea is to be eye-catching, bold and distinctive. I assume that this company has a lot of engaging material that they would like to showcase - nice imagery, demo videos, customer testimonial videos, promo videos, active social media and a blog.
+<br>
+In the first sketch I go for a "salesy" theme to encourage site visitors to get in touch; the second is more of a "showcase", focused purely on providing engaging content.</p>
+<ul><li><a href="https://drive.google.com/file/d/0B_LZUiM-jO9wTXFLcThqRTNuc1k/view?usp=sharing"><strong>Sales-led</strong></a> - Big logo top-left, imposing slogan in top centre, prominent call-to-action (contact sales) top-right:<br>Right column used for strongest/most direct calls-to-action:</li>
+<img src="https://drive.google.com/file/d/0B_LZUiM-jO9wTXFLcThqRTNuc1k" alt="Mike Stroud #2 Sketch 1" style="width:240px;height:400px"><br>
+<li><a href="https://drive.google.com/file/d/0B_LZUiM-jO9wT0xKVXVNSy1xRmc/view?usp=sharing"><strong>Engagement</strong></a> - More visual, subtle logo built into hero image; videos showcased at top; even section navigation is built in to an image:</li>
+<img src="https://drive.google.com/file/d/0B_LZUiM-jO9wT0xKVXVNSy1xRmc" alt="Mike Stroud #2 Sketch 2" style="width:240px;height:400px">
+ 	
+</body>
+</html>
