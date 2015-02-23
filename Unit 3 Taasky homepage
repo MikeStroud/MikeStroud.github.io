@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Taasky homepage</title>
+<img src="D:/GA_Circuits/Unit3-HTML_CSS_basics/Unit3ProjectAssets/Assets/stripes.png">
+<br>	
+<br>
+<img src="D:/GA_Circuits/Unit3-HTML_CSS_basics/Unit3ProjectAssets/Assets/logo-taasky.png">
+<link rel="stylesheet" href="D:/GA_Circuits/Unit3-HTML_CSS_basics/Unit3project-TaaskyHomepage/style.css" />
+</head>
+<body>
+<hr>
+<p>Beautiful, simple and easy to use task manager.</p>
+<a href="https://itunes.apple.com/gb/app/taasky-beautiful-task-to-do/id720309412?mt=8"><img src="D:/GA_Circuits/Unit3-HTML_CSS_basics/Unit3ProjectAssets/Assets/btn_store.png"></a>
+</body>
+</html>
+
+body {
+	background-image: url(file://"D:/GA_Circuits/Unit3-HTML_CSS_basics/Unit3ProjectAssets/Assets/background.jpg");
+	background-color: gray;
+	color: white;
+	font-family: helvetica;	
+	font-size: 20px;
+	vertical-align: middle;
+	}
+
+hr {
+	width: 200px;
+	color: orange;
+	position: relative;
+	left: 10px;
+}
