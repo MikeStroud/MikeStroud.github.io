@@ -1,5 +1,6 @@
 body {
-	background-image: url("images/background.jpg");
+	background: url("images/stripes.png"), url("images/background.jpg");
+	background-repeat: repeat-x, no-repeat;
 	background-color: gray;
 	color: white;
 	font-family: helvetica;	
@@ -9,7 +10,13 @@ body {
 
 hr {
 	width: 200px;
-	color: orange;
-	position: relative;
-	left: 10px;
+	background-color: white;
+	margin: 0px;
+	border: none;
+	height: 3px;
+}
+
+div {
+	margin-top: 100px;
+	margin-left: 50px;
 }
