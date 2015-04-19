@@ -1,0 +1,41 @@
+body {
+		font-family: 'Tienne', serif;
+}
+
+h1 {
+	text-align: center;
+	background: #0055ff;
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+#slogan {
+	text-transform: normal;
+	text-align: center;
+	font-family: impact;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.sivatau {
+	display: block;
+	margin: 0px auto;
+	height: 250px;
+}
+
+.logo {
+	display:block;
+	margin: 0px auto;
+	width: 250px;
+}
+
+hr {
+height: 1px;
+color: black;
+border
+}
+
+.contact {
+	font-size: 10px;
+}
