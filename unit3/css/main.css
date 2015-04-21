@@ -1,31 +1,33 @@
 body {
 		font-family: 'Tienne', serif;
+		font-color: #333333;
 }
 
 h1 {
 	text-align: center;
 	color: white;
-	background: blue;
+	background: rgb(0,30,130);
 	font-weight: bold;
-	font-size: 40px;
-	font-family: 'Tenor Sans', sans-serif;
+	font-size: 60px;
+	font-family: impact;
+	padding: 48px;
 }
 
 p {
 	line-height: 1.8em;
+	color: #333333;
 }
 
 ul {
 	line-height: 1.8em;
-	font-family: 'Tenor Sans', sans-serif;
 }
 
 #slogan {
-	text-transform: normal;
 	text-align: center;
 	font-family: impact;
-	font-size: 24px;
+	font-size: 3em;
 	font-weight: bold;
+	color: #333333;
 }
 
 .sivatau {
