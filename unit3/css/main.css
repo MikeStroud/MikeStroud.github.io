@@ -4,10 +4,20 @@ body {
 
 h1 {
 	text-align: center;
-	background: #0055ff;
 	color: white;
+	background: blue;
 	font-weight: bold;
 	font-size: 40px;
+	font-family: 'Tenor Sans', sans-serif;
+}
+
+p {
+	line-height: 1.8em;
+}
+
+ul {
+	line-height: 1.8em;
+	font-family: 'Tenor Sans', sans-serif;
 }
 
 #slogan {
@@ -37,5 +47,5 @@ border
 }
 
 .contact {
-	font-size: 10px;
+	font-size: 11px;
 }
